@@ -1,0 +1,16 @@
+body {
+    background: salmon;
+}
+
+.heading {
+    width: 90%;
+    font-size: medium;
+}
+
+.name_of_faces {
+    color: azure;
+}
+
+#result_object_name, #result_object_accuracy {
+    color: azure;
+}
